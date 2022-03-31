@@ -1,5 +1,7 @@
 # vue-bigint-prop-bug
 
+:warning: This repository was created to demonstrate the issue described in https://github.com/vuejs/core/issues/5652 .
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
